@@ -4,8 +4,11 @@ As Hytale has over 3,000+ items we are reaching out to the community to help us 
 
 ## How to format
 Formating is super simple, do everything with Values {}
-Every line apart from the last line in the array (list) should have a comma at the end
-Each line should be, Item ID inside double quotes ("") colon (:) sell value (x.xx)
+Every line apart from the last line in the array (list) should have a comma at the end.
+Each line should be, Item ID inside double quotes ("") colon (:) sell value (x.xx).
+
+Item IDs can be found here, https://hytaleguide.net/item-ids
+Please keep all item ids lower case and correctly formatted
 
 ## How to make your first contribution:
 If you haven't used GitHub before but want to help out please follow these steps.
