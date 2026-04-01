@@ -1,6 +1,8 @@
 {
   "Values": {
     "default": 1,
-    "Weapon_Axe_Adamantite": 100
+    "Weapon_Axe_Adamantite": 100,
+    "Weapon_Club_Adamantite": 150,
+    "Ore_Adamantite": 25
   }
 }
