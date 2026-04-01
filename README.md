@@ -21,4 +21,4 @@ If you haven't used GitHub before but want to help out please follow these steps
 
 
 ### Item_Ids
-I have included an Item ids data set. I belive around 300 items are missing from this data set but its good for copy pasting large amount of items.
+I have included an Item ids data set. This data set includes admin tools and other random stff which uses - instead of _ in the ID. Please dont include these items
