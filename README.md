@@ -1,13 +1,13 @@
-Welcome to EmberfallOpenWorths.
+# Welcome to EmberfallOpenWorths.
 
 As Hytale has over 3,000+ items we are reaching out to the community to help us setup an initial data set for how much items should sell for.
 
-# How to format
+## How to format
 Formating is super simple, do everything with Values {}
 Every line apart from the last line in the array (list) should have a comma at the end
 Each line should be, Item ID inside double quotes ("") colon (:) sell value (x.xx)
 
-# How to make your first contribution:
+## How to make your first contribution:
 If you haven't used GitHub before but want to help out please follow these steps.
 
 - Create/Login to your GitHub account.
