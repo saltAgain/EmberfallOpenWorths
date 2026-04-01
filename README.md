@@ -18,3 +18,7 @@ If you haven't used GitHub before but want to help out please follow these steps
 - Clone the repo
 - Make your changes following the formatting guide
 - Create a new pull request to submit your changes
+
+
+### Item_Ids
+I have included an Item ids data set. I belive around 300 items are missing from this data set but its good for copy pasting large amount of items.
